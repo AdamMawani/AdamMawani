@@ -11,4 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## About Me
+Hey, I'm Adam. I'm a student at University of Toronto Schools interested in the intersection of CS and other fields like finance, environmental science, and . 
+
+## I'm Currently Working On
+I'm currently working on 
 -->
+
