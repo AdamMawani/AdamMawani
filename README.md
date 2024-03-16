@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## About Me
-Hey, I'm Adam. I'm a student at University of Toronto Schools interested in the intersection of CS and other fields like finance, environmental science, and . 
+Hey, I'm Adam. I'm a student at University of Toronto Schools, interested in the intersection of CS and other fields like finance, environmental science, and statistics.
 
 ## I'm Currently Working On
-I'm currently working on 
+I'm currently working on hackathons, capture the flag cybersecurity competitions, and personal projects. I'm exploring financial algorithms, web applications, and deep learning algorithms.
 -->
 
