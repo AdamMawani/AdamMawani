@@ -11,11 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 ## About Me
-Hey, I'm Adam. I'm a student at University of Toronto Schools, interested in the intersection of CS and other fields like finance, environmental science, and statistics.
+Hey, I'm Adam. I'm a student at University of Toronto Schools, interested in the intersection of CS and other fields such as finance, environmental science, and statistics.
 
 ## I'm Currently Working On
 I'm currently working on hackathons, capture the flag cybersecurity competitions, and personal projects. I'm exploring financial algorithms, web applications, and deep learning algorithms.
--->
+
+## Languages
+The languages I use the most are Python, Java, C++, JavaScript, HTML, and CSS. I also have lots of experience using frameworks and libraries such as React.js, Express.js, TensorFlow, Pandas, Matplotlib, Numpy, PyTorch, and Flask.
+
+## Check out some of my work at [adammawani.github.io](adammawani.github.io)!
 
