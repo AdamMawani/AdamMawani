@@ -14,5 +14,6 @@ The languages I use the most are Python, Java, C++, JavaScript, HTML, and CSS. I
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMawani&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adammawani&show_icons=true&theme=tokyonight)
-## Check out some of my work at [adammawani.github.io](https://adammawani.github.io)!
 -->
+---
+## Check out some of my work at [adammawani.github.io](https://adammawani.github.io)!
