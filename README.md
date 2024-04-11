@@ -10,10 +10,24 @@ I'm currently working on hackathons, capture the flag cybersecurity competitions
 ## Languages
 The languages I use the most are Python, Java, C++, JavaScript, HTML, and CSS. I also have lots of experience using frameworks and libraries such as React.js, Express.js, TensorFlow, Pandas, Matplotlib, Numpy, PyTorch, and Flask.
 
-<!--
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMawani&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adammawani&show_icons=true&theme=tokyonight)
--->
 ---
 ## Check out some of my work at [adammawani.github.io](https://adammawani.github.io)!
+
+## Take a look at some of my projects!
+Data Analysis
+- [CanaData](https://github.com/AdamMawani/CanaData)
+- [Infrared Thermography](https://github.com/AdamMawani/InfraredThermographyAnalysis)
+
+Simple Applications
+- [CrypticKey](https://github.com/AdamMawani/CrypticKey)
+- [BookWorm](https://github.com/AdamMawani/BookWorm)
+- [StudySphere](https://github.com/AdamMawani/StudySphere)
+
+Mobile Applications
+- [Just Do It Later](https://github.com/AdamMawani/JustDoItLater)
+
+Other
+- [Trading Algorithms](https://github.com/AdamMawani/InvestingAlgorithms)
