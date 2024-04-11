@@ -5,7 +5,7 @@
 Hey, I'm Adam. I'm a student at the University of Toronto Schools, interested in a variety of fields in computer science, including machine learning, data science, and cybersecurity. I'm also interested in intersections between computer science and other fields including finance, math, and environmental science.
 
 ## I'm Currently Working On
-I'm currently working on hackathons, capture the flag cybersecurity competitions, and personal projects. I'm exploring financial algorithms, web applications, and deep learning algorithms.
+I'm currently working on hackathons, capture the flag cybersecurity competitions, and personal projects. I'm exploring trading algorithms, web applications, and deep learning.
 
 ## Languages
 The languages I use the most are Python, JavaScript, HTML, CSS, Java, and C++. I also have lots of experience using frameworks and libraries such as React.js, Express.js, TensorFlow, Pandas, Matplotlib, Numpy, PyTorch, and Flask.
