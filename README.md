@@ -25,7 +25,7 @@ Simple Applications
 - [StudySphere](https://github.com/AdamMawani/StudySphere)
 
 Mobile Applications
-- [Just Do It Later](https://github.com/AdamMawani/JustDoItLater)
+- [Just Do It! Later](https://github.com/AdamMawani/JustDoItLater)
 
 Other
 - [Trading Algorithms](https://github.com/AdamMawani/InvestingAlgorithms)
