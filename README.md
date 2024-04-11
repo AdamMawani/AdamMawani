@@ -1,5 +1,5 @@
 # Adam Mawani
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3750&pause=700&vCenter=true&repeat=false&random=false&width=465&lines=Hi%2C+I'm+Adam!;I'm+a+Full+Stack+Developer+and+Student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3750&pause=550&color=000000FD&vCenter=true&repeat=false&random=false&width=700&height=40&lines=Hi%2C+I'm+Adam!;I'm+a+Full+Stack+Developer+and+Student.)](https://git.io/typing-svg)
 
 ## About Me
 Hey, I'm Adam. I'm a student at the University of Toronto Schools, interested in a variety of fields in computer science, including machine learning, data science, and cybersecurity. I'm also interested in intersections between computer science and other fields including finance, math, and environmental science.
