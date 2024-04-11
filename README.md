@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3750&pause=700&vCenter=true&repeat=false&random=false&width=465&lines=Hi%2C+I'm+Adam!;I'm+a+Full+Stack+Developer+and+Student.)](https://git.io/typing-svg)
 
 ## About Me
-Hey, I'm Adam. I'm a student at the University of Toronto Schools, interested in the intersection of CS and other fields such as finance, environmental science, and statistics.
+Hey, I'm Adam. I'm a student at the University of Toronto Schools, interested in a variety of fields in computer science, including machine learning, data science, and cybersecurity. I'm also interested in intersections between computer science and other fields including finance, math, and environmental science.
 
 ## I'm Currently Working On
 I'm currently working on hackathons, capture the flag cybersecurity competitions, and personal projects. I'm exploring financial algorithms, web applications, and deep learning algorithms.
