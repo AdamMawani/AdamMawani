@@ -20,18 +20,3 @@ The languages I use the most are Python, JavaScript, HTML, CSS, Java, and C++. I
 |----------|----------|----------|
 | [CanaData](https://github.com/AdamMawani/CanaData)   | [CrypticKey](https://github.com/AdamMawani/CrypticKey)   | [Just Do It! Later](https://github.com/AdamMawani/JustDoItLater)   |
 | [Infrared Thermography](https://github.com/AdamMawani/InfraredThermographyAnalysis)   | [BookWorm](https://github.com/AdamMawani/BookWorm)   | [Trading Algorithms](https://github.com/AdamMawani/InvestingAlgorithms)   |
-
-Data Analysis
-- [CanaData](https://github.com/AdamMawani/CanaData)
-- [Infrared Thermography](https://github.com/AdamMawani/InfraredThermographyAnalysis)
-
-Simple Applications
-- [CrypticKey](https://github.com/AdamMawani/CrypticKey)
-- [BookWorm](https://github.com/AdamMawani/BookWorm)
-- [StudySphere](https://github.com/AdamMawani/StudySphere)
-
-Mobile Applications
-- [Just Do It! Later](https://github.com/AdamMawani/JustDoItLater)
-
-Other
-- [Trading Algorithms](https://github.com/AdamMawani/InvestingAlgorithms)
