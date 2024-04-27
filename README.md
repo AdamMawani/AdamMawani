@@ -8,7 +8,7 @@ I'm a student at the University of Toronto Schools, interested in a variety of f
 I'm currently working on hackathons, capture the flag cybersecurity competitions, and personal projects. I'm exploring trading algorithms, web applications, and deep learning.
 
 ## Languages
-The languages I use the most are Python, JavaScript, HTML, CSS, C++, Java, and Swift. I also have lots of experience using frameworks and libraries such as React.js, Express.js, TensorFlow, Pandas, Matplotlib, Numpy, PyTorch, and Flask.
+The languages I use the most are Python, JavaScript, HTML, CSS, C++, and Java. I also have lots of experience using frameworks and libraries such as React.js, Express.js, TensorFlow, Pandas, Matplotlib, Numpy, PyTorch, and Flask.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMawani&layout=compact&theme=tokyonight)
 
